@@ -177,6 +177,49 @@
       ]
     },
     {
+      "name": "Ethics, Integrity & Aptitude",
+      "topics": [
+        "Ethics & Human Interface",
+        "Essence, Determinants & Consequences of Ethics",
+        "Dimensions of Ethics",
+        "Ethics in Private & Public Relationships",
+        "Human Values",
+        "Role of Family, Society & Educational Institutions",
+        "Great Moral Thinkers & Philosophers",
+        "Attitude - Content, Structure & Function",
+        "Attitude - Influence & Relation with Thought and Behaviour",
+        "Moral & Political Attitudes",
+        "Social Influence & Persuasion",
+        "Aptitude & Foundational Values for Civil Service",
+        "Integrity",
+        "Impartiality & Non-partisanship",
+        "Objectivity",
+        "Dedication to Public Service",
+        "Empathy, Tolerance & Compassion",
+        "Emotional Intelligence",
+        "Concepts & Their Utilities in Administration",
+        "Contributions of Moral Thinkers",
+        "Public/Civil Service Values",
+        "Ethical Concerns in Public Administration",
+        "Status & Problems of Civil Services",
+        "Ethical Issues in International Relations",
+        "Corporate Governance",
+        "Probity in Governance",
+        "Concept of Public Service",
+        "Philosophical Basis of Governance & Probity",
+        "Information Sharing & Transparency",
+        "Right to Information",
+        "Codes of Ethics",
+        "Codes of Conduct",
+        "Citizen's Charter",
+        "Work Culture",
+        "Quality of Service Delivery",
+        "Utilization of Public Funds",
+        "Challenges of Corruption",
+        "Case Studies on Ethics"
+      ]
+    },
+    {
       "name": "CSAT (Paper II)",
       "topics": [
         "Reading Comprehension",
@@ -194,48 +237,5 @@
         "Simple & Compound Interest"
       ]
     }
-  ]
-}
-{
-  "name": "Ethics, Integrity & Aptitude",
-  "topics": [
-    "Ethics & Human Interface",
-    "Essence, Determinants & Consequences of Ethics",
-    "Dimensions of Ethics",
-    "Ethics in Private & Public Relationships",
-    "Human Values",
-    "Role of Family, Society & Educational Institutions",
-    "Great Moral Thinkers & Philosophers",
-    "Attitude - Content, Structure & Function",
-    "Attitude - Influence & Relation with Thought and Behaviour",
-    "Moral & Political Attitudes",
-    "Social Influence & Persuasion",
-    "Aptitude & Foundational Values for Civil Service",
-    "Integrity",
-    "Impartiality & Non-partisanship",
-    "Objectivity",
-    "Dedication to Public Service",
-    "Empathy, Tolerance & Compassion",
-    "Emotional Intelligence",
-    "Concepts & Their Utilities in Administration",
-    "Contributions of Moral Thinkers",
-    "Public/Civil Service Values",
-    "Ethical Concerns in Public Administration",
-    "Status & Problems of Civil Services",
-    "Ethical Issues in International Relations",
-    "Corporate Governance",
-    "Probity in Governance",
-    "Concept of Public Service",
-    "Philosophical Basis of Governance & Probity",
-    "Information Sharing & Transparency",
-    "Right to Information",
-    "Codes of Ethics",
-    "Codes of Conduct",
-    "Citizen's Charter",
-    "Work Culture",
-    "Quality of Service Delivery",
-    "Utilization of Public Funds",
-    "Challenges of Corruption",
-    "Case Studies on Ethics"
   ]
 }
