@@ -1,0 +1,104 @@
+{
+  "subjects": [
+    {
+      "name": "Indian Polity",
+      "topics": [
+        "Indian Constitution - Historical Background",
+        "Preamble",
+        "Union & Its Territory",
+        "Citizenship",
+        "Fundamental Rights",
+        "Directive Principles of State Policy",
+        "Fundamental Duties",
+        "Parliament",
+        "President & Vice President",
+        "Prime Minister & Council of Ministers",
+        "Supreme Court",
+        "High Courts",
+        "State Legislature",
+        "Governor",
+        "Local Government",
+        "Election Commission",
+        "Constitutional Bodies",
+        "Statutory Bodies",
+        "Emergency Provisions",
+        "Amendment Process"
+      ]
+    },
+    {
+      "name": "History",
+      "topics": [
+        "Indus Valley Civilization",
+        "Vedic Period",
+        "Buddhism & Jainism",
+        "Mauryan Empire",
+        "Gupta Empire",
+        "Post-Gupta Period",
+        "Delhi Sultanate",
+        "Mughal Empire",
+        "Maratha Empire",
+        "European Arrival in India",
+        "East India Company",
+        "Revolt of 1857",
+        "Indian National Congress",
+        "Moderate Phase",
+        "Extremist Phase",
+        "Gandhian Era",
+        "Revolutionary Movements",
+        "Independence & Partition",
+        "Post-Independence India",
+        "Art & Culture"
+      ]
+    },
+    {
+      "name": "Geography",
+      "topics": [
+        "Solar System & Earth",
+        "Geomorphology",
+        "Climatology",
+        "Oceanography",
+        "Biogeography",
+        "Indian Physical Geography",
+        "Indian Climate",
+        "Indian Drainage System",
+        "Indian Soils",
+        "Indian Natural Vegetation",
+        "Indian Agriculture",
+        "Indian Minerals & Energy",
+        "Indian Industries",
+        "Indian Transport",
+        "Population & Urbanization",
+        "World Physical Geography",
+        "World Climate & Vegetation",
+        "World Economic Geography",
+        "Environmental Geography",
+        "Map-based Questions"
+      ]
+    },
+    {
+      "name": "Economy",
+      "topics": [
+        "National Income & GDP",
+        "Planning in India",
+        "NITI Aayog",
+        "Agriculture & Food Security",
+        "Industrial Policy",
+        "Infrastructure Development",
+        "Banking System",
+        "Reserve Bank of India",
+        "Monetary Policy",
+        "Fiscal Policy",
+        "Taxation",
+        "Budget & Finance",
+        "Inflation",
+        "Poverty & Unemployment",
+        "International Trade",
+        "Foreign Investment",
+        "Economic Reforms",
+        "Financial Markets",
+        "Insurance & Pension",
+        "Sustainable Development"
+      ]
+    }
+  ]
+}
