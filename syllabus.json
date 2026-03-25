@@ -99,6 +99,100 @@
         "Insurance & Pension",
         "Sustainable Development"
       ]
+    },
+    {
+      "name": "Environment & Ecology",
+      "topics": [
+        "Ecosystem Structure & Function",
+        "Biodiversity",
+        "Conservation Methods",
+        "Protected Areas in India",
+        "National Parks & Wildlife Sanctuaries",
+        "Environmental Pollution",
+        "Climate Change",
+        "Global Environmental Agreements",
+        "Environmental Impact Assessment",
+        "Sustainable Development",
+        "Disaster Management",
+        "Wetlands & Ramsar Sites",
+        "Forest & Wildlife Laws",
+        "Assam Ecology & Biodiversity"
+      ]
+    },
+    {
+      "name": "Science & Technology",
+      "topics": [
+        "Basic Physics Concepts",
+        "Basic Chemistry Concepts",
+        "Basic Biology Concepts",
+        "Biotechnology",
+        "Genetics & DNA Technology",
+        "Nanotechnology",
+        "Information Technology",
+        "Artificial Intelligence",
+        "Space Technology",
+        "Defence Technology",
+        "Nuclear Technology",
+        "Health & Diseases",
+        "Vaccines & Immunization",
+        "Recent Scientific Developments"
+      ]
+    },
+    {
+      "name": "Assam Specific",
+      "topics": [
+        "History of Assam",
+        "Ahom Kingdom",
+        "Freedom Movement in Assam",
+        "Geography of Assam",
+        "Rivers of Assam",
+        "Economy of Assam",
+        "Tea Industry",
+        "Oil & Natural Gas",
+        "Agriculture in Assam",
+        "Assam Culture & Traditions",
+        "Festivals of Assam",
+        "Tribes of Assam",
+        "Bodos & Other Ethnic Groups",
+        "Assam Polity & Administration",
+        "Sixth Schedule Areas",
+        "Current Issues in Assam"
+      ]
+    },
+    {
+      "name": "Current Affairs",
+      "topics": [
+        "National Current Affairs",
+        "International Current Affairs",
+        "Government Schemes",
+        "Reports & Indices",
+        "Summits & Conferences",
+        "Awards & Honours",
+        "Important Days",
+        "Sports",
+        "Science & Tech Updates",
+        "Environment News",
+        "Economic Developments",
+        "Assam Current Affairs"
+      ]
+    },
+    {
+      "name": "CSAT (Paper II)",
+      "topics": [
+        "Reading Comprehension",
+        "Logical Reasoning",
+        "Analytical Ability",
+        "Decision Making",
+        "Basic Numeracy",
+        "Number System",
+        "Percentage",
+        "Ratio & Proportion",
+        "Profit & Loss",
+        "Time & Work",
+        "Time, Speed & Distance",
+        "Data Interpretation",
+        "Simple & Compound Interest"
+      ]
     }
   ]
 }
