@@ -101,119 +101,102 @@
       ]
     },
     {
-      "name": "Environment & Ecology",
+      "name": "Environment",
       "topics": [
-        "Ecosystem Structure & Function",
+        "Ecosystem",
         "Biodiversity",
-        "Conservation Methods",
-        "Protected Areas in India",
-        "National Parks & Wildlife Sanctuaries",
-        "Environmental Pollution",
+        "Conservation",
+        "National Parks",
+        "Wildlife Sanctuaries",
+        "Pollution",
         "Climate Change",
-        "Global Environmental Agreements",
-        "Environmental Impact Assessment",
-        "Sustainable Development",
+        "Environmental Agreements",
+        "EIA",
         "Disaster Management",
-        "Wetlands & Ramsar Sites",
-        "Forest & Wildlife Laws",
-        "Assam Ecology & Biodiversity"
+        "Ramsar Sites",
+        "Forest Laws"
       ]
     },
     {
-      "name": "Science & Technology",
+      "name": "Science",
       "topics": [
-        "Basic Physics Concepts",
-        "Basic Chemistry Concepts",
-        "Basic Biology Concepts",
+        "Physics Basics",
+        "Chemistry Basics",
+        "Biology Basics",
         "Biotechnology",
-        "Genetics & DNA Technology",
         "Nanotechnology",
-        "Information Technology",
-        "Artificial Intelligence",
-        "Space Technology",
-        "Defence Technology",
-        "Nuclear Technology",
-        "Health & Diseases",
-        "Vaccines & Immunization",
-        "Recent Scientific Developments"
+        "IT",
+        "AI",
+        "Space Tech",
+        "Defence Tech",
+        "Health & Diseases"
       ]
     },
     {
-      "name": "Assam Specific",
+      "name": "Assam",
       "topics": [
         "History of Assam",
         "Ahom Kingdom",
-        "Freedom Movement in Assam",
         "Geography of Assam",
         "Rivers of Assam",
         "Economy of Assam",
         "Tea Industry",
-        "Oil & Natural Gas",
-        "Agriculture in Assam",
-        "Assam Culture & Traditions",
-        "Festivals of Assam",
-        "Tribes of Assam",
-        "Bodos & Other Ethnic Groups",
-        "Assam Polity & Administration",
-        "Sixth Schedule Areas",
-        "Current Issues in Assam"
+        "Oil & Gas",
+        "Culture",
+        "Festivals",
+        "Tribes",
+        "Sixth Schedule"
       ]
     },
     {
       "name": "Current Affairs",
       "topics": [
-        "National Current Affairs",
-        "International Current Affairs",
-        "Government Schemes",
-        "Reports & Indices",
-        "Summits & Conferences",
-        "Awards & Honours",
-        "Important Days",
+        "National",
+        "International",
+        "Schemes",
+        "Reports",
+        "Awards",
         "Sports",
-        "Science & Tech Updates",
-        "Environment News",
-        "Economic Developments",
-        "Assam Current Affairs"
+        "Economy",
+        "Science",
+        "Environment",
+        "Assam Current"
       ]
     },
     {
       "name": "Ethics",
       "topics": [
-        "Ethics & Human Interface",
+        "Ethics Basics",
         "Human Values",
         "Attitude",
         "Emotional Intelligence",
-        "Aptitude & Foundational Values",
         "Integrity",
         "Impartiality",
         "Objectivity",
         "Empathy",
         "Public Service Values",
-        "Probity in Governance",
-        "Transparency & Accountability",
+        "Probity",
+        "Transparency",
         "RTI",
-        "Codes of Ethics",
         "Citizen Charter",
         "Corruption",
         "Case Studies"
       ]
     },
     {
-      "name": "CSAT (Paper II)",
+      "name": "CSAT",
       "topics": [
-        "Reading Comprehension",
-        "Logical Reasoning",
+        "Comprehension",
+        "Reasoning",
         "Analytical Ability",
         "Decision Making",
-        "Basic Numeracy",
-        "Number System",
+        "Numeracy",
         "Percentage",
-        "Ratio & Proportion",
-        "Profit & Loss",
-        "Time & Work",
-        "Time, Speed & Distance",
-        "Data Interpretation",
-        "Simple & Compound Interest"
+        "Ratio",
+        "Profit Loss",
+        "Time Work",
+        "Speed Distance",
+        "DI"
       ]
     }
   ]
